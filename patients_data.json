@@ -1,0 +1,10 @@
+[
+    {
+        "patient_id": "321323",
+        "name": "romany",
+        "age": 20,
+        "gender": "male",
+        "blood_type": "o",
+        "disease": "cancer"
+    }
+]
